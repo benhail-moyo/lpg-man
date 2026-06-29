@@ -8,7 +8,7 @@
 ## Repository Layout (Monorepo)
 
 ```
-lpg-platform/
+lpg-man/
 ├── backend/                    # Flask REST API
 ├── dashboard/                  # React + Vite web dashboard
 ├── mobile/                     # React Native Expo mobile client
